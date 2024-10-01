@@ -1,3 +1,4 @@
 # LAB-1
-Hi this is Nick
-Welcome to my depository
+Hi this is Nick;
+Welcome to my depository;
+return 0;
